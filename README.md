@@ -1,5 +1,5 @@
-### Hello! This profile is still a work in progress. Please check back at a later date...
 <!--
+### Hello! This profile is still a work in progress. Please check back at a later date...
 **btang2/btang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
